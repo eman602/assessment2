@@ -287,4 +287,3 @@ def ten(X,Y):
 	
 	return multi_list
 
-ten(3,4)
